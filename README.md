@@ -10,3 +10,4 @@ Follow the commands in OIDC_and_ALB file for creating OIDC connetion and install
 Finally, you can verify it to get the external IP and access the application from any browser.
 
 
+![Alt text](Screenshot 2024-11-15 163202.png)
