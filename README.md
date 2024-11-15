@@ -1,4 +1,4 @@
-# End-to-End-Proejct-on-EKS
+# End-to-End-Project-on-EKS
 Deployed a Game in the AWS EKS Cluster and Exposed to the outside world.
 
 Hey Folks! Here is the steps to do the project:
