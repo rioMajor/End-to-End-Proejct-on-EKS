@@ -8,3 +8,5 @@ Creat a EKS Cluster by following the EKS Creation file.
 Create a FARGATE profile and deploy the GAME as pods by following the two commands mentioned in 2048 Game as Pods file.
 Follow the commands in OIDC_and_ALB file for creating OIDC connetion and installing ALB controller.
 Finally, you can verify it to get the external IP and access the application from any browser.
+
+
