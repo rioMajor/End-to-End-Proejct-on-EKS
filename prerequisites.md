@@ -1,4 +1,4 @@
-Install kubectl,
-Install eksctl,
-Install aws cli.
-Install helm.
+1)Install kubectl,
+2)Install eksctl,
+3)Install aws cli.
+4)Install helm.
