@@ -10,4 +10,4 @@ Follow the commands in OIDC_and_ALB file for creating OIDC connetion and install
 Finally, you can verify it to get the external IP and access the application from any browser.
 
 
-![Alt text](https://example.com/path/to/image.png)
+![Alt text](https://github.com/rioMajor/End-to-End-Proejct-on-EKS/blob/main/Screenshot%202024-11-15%20163202.png)
